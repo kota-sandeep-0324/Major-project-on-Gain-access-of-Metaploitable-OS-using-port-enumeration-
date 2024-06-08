@@ -5,11 +5,11 @@ UNDER ESTEEMED GUIDENESS OF Ms. YANDAMURI UMADEVI
 
 ABSTRACT :
  
-This project explores the use of port enumeration as a security testing technique, with the goal of gaining access to a Metaploitable operating system. Metaploitable is a vulnerable virtual machine that is designed for use in security training and testing. It is a Linux-based operating system that contains a variety of vulnerable software and services, including web servers, databases, and network services. 
+This project explores the use of port enumeration as a security testing technique, to gain access to a Metaploitable operating system. Metaploitable is a vulnerable virtual machine that is designed for use in security training and testing. It is a Linux-based operating system that contains a variety of vulnerable software and services, including web servers, databases, and network services. 
  
 To gain access to the Metaploitable operating system, we used port enumeration to identify the open ports and services on the system. This information was used to plan and execute further security testing and attacks, in order to gain access to the system. 
  
-Overall, the project was successful in demonstrating the value and effectiveness of port enumeration as a security testing technique, and provided valuable insights into the vulnerabilities and security risks of the Metaploitable operating system. There are many further developments and areas of exploration that can be pursued in this area, and this project provides a valuable starting point for further work in this field.
+Overall, the project successfully demonstrated the value and effectiveness of port enumeration as a security testing technique and provided valuable insights into the vulnerabilities and security risks of the Metaploitable operating system. There are many further developments and areas of exploration that can be pursued in this area, and this project provides a valuable starting point for further work in this field.
 
 INTRODUCTION :
  
